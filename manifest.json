@@ -1,0 +1,13 @@
+{
+  "name": "AutoLayoutShortcut",
+  "id": "918544319203923051",
+  "api": "1.0.0",
+  "main": "code.js",
+  "menu": [
+    {"name": "Switch Layout Mode", "command": "layout_mode"},
+    {"name": "Axis Align Left", "command": "align_left"},
+    {"name": "Axis Align Right", "command": "align_right"},
+    {"name": "Axis Align Up", "command": "align_up"},
+    {"name": "Axis Align Down", "command": "align_down"}
+  ]
+}
