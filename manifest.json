@@ -2,12 +2,17 @@
   "name": "AutoLayoutShortcut",
   "id": "918544319203923051",
   "api": "1.0.0",
+  "editorType": ["figma"],
   "main": "code.js",
   "menu": [
     {"name": "Switch Layout Mode", "command": "layout_mode"},
     {"name": "Axis Align Left", "command": "align_left"},
     {"name": "Axis Align Right", "command": "align_right"},
     {"name": "Axis Align Up", "command": "align_up"},
-    {"name": "Axis Align Down", "command": "align_down"}
+    {"name": "Axis Align Down", "command": "align_down"},
+    {"name": "Switch Layout Primary Fill", "command": "layout_align_primary_fill"},
+    {"name": "Switch Layout Primary Hug", "command": "layout_align_primary_hug"},
+    {"name": "Switch Layout Counter Fill", "command": "layout_align_counter_fill"},
+    {"name": "Switch Layout Counter Hug", "command": "layout_align_counter_hug"}
   ]
 }
