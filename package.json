@@ -10,6 +10,6 @@
   "author": "",
   "license": "",
   "devDependencies": {
-    "@figma/plugin-typings": "^1.19.0"
+    "@figma/plugin-typings": "^1.43.0"
   }
 }
